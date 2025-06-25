@@ -1,40 +1,65 @@
-<h1 align="center">Hi 👋, I'm ELVIS NDAYISHIMIYE</h1>
-<h3 align="center">A passionate Devops Engineer from BURUNDI</h3>
+# Hi there, I'm Elvis Ndayishimiye 👋
 
+## Building the Next Generation of Financial Infrastructure
 
+I'm a multifaceted engineer with a passion for building robust, scalable, and automated systems at the intersection of finance and technology. My expertise spans from foundational software engineering and complex data pipelines to mission-critical DevOps and MLOps.
 
-- 🔭 I’m currently working on **Tradinghub software**
+My philosophy is to bridge the gap between brilliant quantitative ideas and production-ready, institutional-grade technology. I don't just build tools; I architect solutions that generate alpha, manage risk, and provide a competitive edge.
 
-- 🌱 I’m currently learning **Systems Design**
+---
 
-- 👯 I’m looking to collaborate on **financial markets scanner software**
+### Core Competencies
 
-- 🤝 I’m looking for help with **Crypto wallets payment integration**
+*   **💻 Software Engineering:** Crafting high-performance, testable, and maintainable backend services and APIs. Fluent in building the logic that powers complex financial applications.
+*   **🔗 Data Engineering:** Architecting and implementing end-to-end ETL/ELT pipelines. I turn raw, messy data (from APIs, web scrapes, or real-time feeds) into clean, reliable, and actionable intelligence for quant models and analytics.
+*   **☁️ DevOps & MLOps:** Designing and deploying secure, scalable, and automated infrastructure as code (IaC). I build the CI/CD and GitOps frameworks that allow quant researchers and developers to ship strategies and models faster and more reliably.
+*   **🕸️ Web Scraping & Alternative Data:** Unlocking value from the public web. I specialize in building resilient scraping engines to gather non-traditional datasets that provide unique market insights.
 
-- 👨‍💻 All of my projects are available at [www.feexperts.com](www.feexperts.com)
+---
 
-- 📝 I regularly write articles on [www.feexperts.com](www.feexperts.com)
+### 🛠️ My Tech Stack
 
-- 💬 Ask me about **Devops,Systems Design and Finance**
+| Category                | Technologies                                                                                             |
+| ------------------------| -------------------------------------------------------------------------------------------------------- |
+| **Languages**           | Python, PostgreSQL, Go (learning), Rust (exploring)                                                      |
+| **Backend & API**       | FastAPI, WebSocket, gRPC                                                                                 |
+| **Data & Streaming**    | Apache Spark, Apache Airflow, Kafka, Delta Lake, PostgreSQL, Redis, Scrapy, Playwright, Pandas           |
+| **DevOps & Infra**      | Kubernetes, Docker, Terraform, Jenkins, ArgoCD, GitHub Actions, AWS, GCP, Prometheus, Grafana, Vault     |
+| **AI & ML**             | LangChain, HuggingFace Transformers, scikit-learn, MLflow, DVC                                           |
+| **Frontend (Familiar)** | React, Tailwind CSS                                                                                      |
 
-- 📫 How to reach me **elvisndayishimiye200@gmail.com**
+---
 
-- 📄 Know about my experiences [www.feexperts.com](www.feexperts.com)
+## 🏛️ My Portfolio: From Idea to Infrastructure
 
-- ⚡ Fun fact **I think AI is my best friend**
+Below are conceptual projects that represent the type of challenges I'm passionate about solving. They showcase my ability to apply my skills to real-world business needs in the financial industry.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@elvispronda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@elvispronda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ndayishimiye elvis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ndayishimiye elvis" height="30" width="40" /></a>
-</p>
+| Project                                       | Description                                                                                              | Skills Demonstrated                                                                      |
+| --------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **HedgeLaunch** </br> _(Trading Infra-as-a-Service)_ | Deploys SOC 2 compliant, audit-ready cloud infrastructure for new hedge funds in minutes, not months.  | **DevOps**, **IaC (Terraform)**, **Kubernetes**, **CI/CD**, **Security (Vault)**           |
+| **FinData Fabric** </br> _(Data-as-a-Service)_      | Builds automated data pipelines to ingest, clean, and serve point-in-time financial and alternative data via a single API. | **Data Engineering**, **Web Scraping (Scrapy)**, **Airflow**, **Spark**, **Kafka**         |
+| **AlphaPilot** </br> _(AI Quant Co-Pilot)_          | An AI platform that translates natural language trading ideas into fully backtested Python strategy code. | **Software Engineering**, **MLOps**, **LLMs (LangChain)**, **FastAPI**, **Microservices**  |
+| **ClarityRisk** </br> _(Real-Time Risk OS)_         | A streaming platform to monitor portfolio risk and exposures in real-time, moving beyond static EOD reports. | **Data Engineering (Streaming)**, **Kafka**, **FastAPI**, **System Architecture**          |
+| **ArbNet** </br> _(Arbitrage Intelligence)_    | A low-latency feed that identifies and quantifies complex, multi-leg arbitrage opportunities across global markets. | **Software Engineering**, **Low-Latency Systems**, **WebSocket**, **Redis**                |
+| **Nexus Terminal** </br> _(Integrated Quant OS)_   | The "all-in-one" platform integrating research, backtesting, deployment, and monitoring into a single cloud-native terminal. | **Full-Stack Architecture**, **System Integration**, **DevOps**, **Data Engineering**    |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvispronda&show_icons=true&locale=en&layout=compact" alt="elvispronda" /></p>
+### 🌱 What I'm Focused On Now
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elvispronda&show_icons=true&locale=en" alt="elvispronda" /></p>
+I'm always learning and pushing the boundaries of my knowledge. My current areas of interest are:
+*   Building ultra-low-latency systems using **Rust** and **Go**.
+*   Fine-tuning **Large Language Models (LLMs)** on proprietary financial text for specific domain tasks.
+*   Advanced **Kubernetes** networking and security for high-performance computing workloads.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvispronda&" alt="elvispronda" /></p>
+---
 
+### 📫 Let's Connect
+
+I'm always open to discussing new ideas, collaborating on projects, or exploring opportunities. Feel free to reach out.
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvispronda/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@elvispronda)
+[![blog](https://img.shields.io/badge/blog-232F3E?style=for-the-badge&logo=dev.to&logoColor=white)](https://pronda.com/)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=elvispronda&show_icons=true&theme=dracula&hide_border=true&count_private=true)
