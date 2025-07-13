@@ -58,8 +58,10 @@ I'm always learning and pushing the boundaries of my knowledge. My current areas
 
 I'm always open to discussing new ideas, collaborating on projects, or exploring opportunities. Feel free to reach out.
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvispronda/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@elvispronda)
-[![blog](https://img.shields.io/badge/blog-232F3E?style=for-the-badge&logo=dev.to&logoColor=white)](https://pronda.com/)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=elvispronda&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvisquant)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elvispronda/elvisquant)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@elvisquant)
+[![Website](https://img.shields.io/badge/-Website-24292e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://quant.dev)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elvisquant)
